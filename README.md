@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartHire Beginner — Recruitment and Job Portal
 
 A beginner-friendly React project using HTML, CSS, JavaScript, and browser localStorage. No backend or database server is required.
@@ -47,3 +48,7 @@ This version stores demo data in the current browser's localStorage. It is not s
 npm run build
 ```
 The generated website is in the `dist/` folder.
+=======
+# smarthire-job-portal
+A beginner-friendly job recruitment portal built using React, JavaScript, HTML, and CSS, with job search, candidate dashboard, and application tracking features.
+>>>>>>> 7daed68d5e2bd19d355273e8754fe7d0ca496b82
